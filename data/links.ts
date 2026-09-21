@@ -20,20 +20,20 @@ const links: LinkItem[] = [
     title: "TikTok",
     children: [
       {
-        title: "BioPlant Official",
-        url: "https://tiktok.com/@akun1",
+        title: "Flora Nature",
+        url: " https://vt.tiktok.com/ZS9AADN3ERWUf-1looX/",
       },
       {
-        title: "BioPlant Garden",
-        url: "https://tiktok.com/@akun2",
+        title: "Exotic Plants.id",
+        url: "https://vt.tiktok.com/ZS9AAAvSmYFd5-gIVPE/",
       },
       {
-        title: "BioPlant Project",
-        url: "https://tiktok.com/@akun3",
+        title: "Kebun tropis",
+        url: " https://vt.tiktok.com/ZSqwLvMT4/?page=Mall",
       },
       {
-        title: "BioPlant Nursery",
-        url: "https://tiktok.com/@akun4",
+        title: "Plantsspace.id",
+        url: "https://vt.tiktok.com/ZS9AADkk7Rg63-R2qjW/  ",
       },
     ],
   },
