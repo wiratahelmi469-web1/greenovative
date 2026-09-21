@@ -41,20 +41,20 @@ const links: LinkItem[] = [
     title: "Tokopedia",
     children: [
       {
-        title: "Official Store",
-        url: "#",
+        title: "Flora Nature",
+        url: "https://tk.tokopedia.com/ZSqwryooS/",
       },
       {
-        title: "Tanaman Hias",
-        url: "#",
+        title: "Exotic Plants.id",
+        url: "https://tk.tokopedia.com/ZSqwrScqq/",
       },
       {
-        title: "Pot & Media",
-        url: "#",
+        title: "Kebun Tropis",
+        url: "https://tk.tokopedia.com/ZSqwrBro6/",
       },
       {
-        title: "Project",
-        url: "#",
+        title: "Plantsspace.id",
+        url: "https://tk.tokopedia.com/ZSqwh1t1F/",
       },
     ],
   },
